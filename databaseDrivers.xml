@@ -11,10 +11,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.jtds" name="Sybase (jTds)" dialect="Sybase">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.jtds" name="SQL Server (jTds)" dialect="TSQL">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="hsqldb.local" name="HSQLDB (Local)" dialect="HSQLDB">
       <option name="auto-sync" value="true" />
@@ -26,7 +26,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sybase.ase" name="Sybase (Native)" dialect="Sybase">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
       <option name="auto-sync" value="true" />
@@ -36,7 +36,7 @@
       <property name="retrieveMessagesFromServerOnGetMessage" value="true" />
     </driver>
     <driver id="sqlserver.ms" name="SQL Server (Microsoft)" dialect="TSQL">
-      <option name="auto-sync" value="false" />
+      <option name="auto-sync" value="true" />
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
       <option name="auto-sync" value="false" />
