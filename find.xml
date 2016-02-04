@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="routing.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -12,6 +13,7 @@
       <mask>*.mxml</mask>
       <mask>*.php</mask>
       <mask>datagrid.yml</mask>
+      <mask>routing.yml</mask>
     </recentFileMasks>
   </component>
 </application>
