@@ -11,6 +11,7 @@
       <mapping ext="runit" type="Bash" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="315263382665" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping pattern="1013823909108" type="PLAIN_TEXT" />
