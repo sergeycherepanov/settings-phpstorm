@@ -24,6 +24,7 @@
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
+      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
