@@ -21,6 +21,7 @@
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern="281847976270" type="PLAIN_TEXT" />
+      <mapping pattern="install-application" type="PLAIN_TEXT" />
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
