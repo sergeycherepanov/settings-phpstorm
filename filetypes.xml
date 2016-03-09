@@ -30,6 +30,7 @@
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
+      <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
       <mapping pattern="minecraft" type="PLAIN_TEXT" />
