@@ -24,6 +24,7 @@
       <mapping pattern="install-application" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
+      <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
