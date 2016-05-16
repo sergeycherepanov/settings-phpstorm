@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="datagrid.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,10 +14,10 @@
       <mask>routing.yml</mask>
       <mask>*.xml</mask>
       <mask>*.yml</mask>
-      <mask>datagrid.yml</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
       <mask>*.twig</mask>
+      <mask>datagrid.yml</mask>
     </recentFileMasks>
   </component>
 </application>
