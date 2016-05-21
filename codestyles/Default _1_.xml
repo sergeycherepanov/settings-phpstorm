@@ -25,5 +25,6 @@
   </XML>
   <codeStyleSettings language="PHP">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_AFTER_TYPE_CAST" value="true" />
   </codeStyleSettings>
 </code_scheme>
