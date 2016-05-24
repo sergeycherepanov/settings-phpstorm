@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -14,8 +15,8 @@
       <mask>datagrid.yml</mask>
       <mask>validation.yml</mask>
       <mask>*.xml</mask>
-      <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
