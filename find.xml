@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="*.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,9 +18,9 @@
       <mask>validation.yml</mask>
       <mask>*.xml</mask>
       <mask>*.php</mask>
-      <mask>*.yml</mask>
       <mask>sustem.xml</mask>
       <mask>system.xml</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
