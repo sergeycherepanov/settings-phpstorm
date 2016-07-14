@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,11 +16,11 @@
       <mask>*.twig</mask>
       <mask>datagrid.yml</mask>
       <mask>validation.yml</mask>
-      <mask>*.xml</mask>
       <mask>*.php</mask>
       <mask>sustem.xml</mask>
       <mask>system.xml</mask>
       <mask>*.yml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
