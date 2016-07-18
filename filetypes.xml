@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="functions" type="Bash" />
@@ -9,12 +9,12 @@
       <mapping pattern="config" type="Bash" />
       <mapping pattern="pre-deploy" type="Bash" />
       <mapping ext="runit" type="Bash" />
+      <mapping ext="mkd" type="Markdown" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
       <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
-      <mapping pattern="315263382665" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
-      <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping pattern="1013823909108" type="PLAIN_TEXT" />
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="wget" type="PLAIN_TEXT" />
@@ -23,22 +23,23 @@
       <mapping pattern="OroBundleAttachmentBundleMigrationsSchemaOroAttachmentBundleInstaller" type="PLAIN_TEXT" />
       <mapping pattern="281847976270" type="PLAIN_TEXT" />
       <mapping pattern="install-application" type="PLAIN_TEXT" />
-      <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
+      <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
-      <mapping pattern="979222371726" type="PLAIN_TEXT" />
+      <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
+      <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="315263382665" type="PLAIN_TEXT" />
       <mapping pattern=".s3cnf" type="PLAIN_TEXT" />
       <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern=".dokku/CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
