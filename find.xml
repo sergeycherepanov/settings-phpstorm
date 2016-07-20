@@ -1,6 +1,6 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="di.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,6 +19,7 @@
       <mask>*.yml</mask>
       <mask>*.xml</mask>
       <mask>*.php</mask>
+      <mask>di.xml</mask>
     </recentFileMasks>
   </component>
 </application>
