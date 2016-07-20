@@ -1,5 +1,6 @@
 <application>
   <component name="FindSettings">
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -13,11 +14,11 @@
       <mask>*.twig</mask>
       <mask>datagrid.yml</mask>
       <mask>validation.yml</mask>
-      <mask>*.php</mask>
       <mask>sustem.xml</mask>
       <mask>system.xml</mask>
       <mask>*.yml</mask>
       <mask>*.xml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
