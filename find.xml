@@ -21,6 +21,7 @@
       <mask>*.php</mask>
       <mask>di.xml</mask>
       <mask>*.yml</mask>
+      <mask>acl.yml</mask>
     </recentFileMasks>
   </component>
 </application>
