@@ -23,6 +23,8 @@
       <mask>*.yml</mask>
       <mask>acl.yml</mask>
       <mask>navigation.yml</mask>
+      <mask>config.js</mask>
+      <mask>*config.js</mask>
     </recentFileMasks>
   </component>
 </application>
