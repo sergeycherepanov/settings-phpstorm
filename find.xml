@@ -20,11 +20,11 @@
       <mask>*.xml</mask>
       <mask>*.php</mask>
       <mask>di.xml</mask>
-      <mask>*.yml</mask>
       <mask>acl.yml</mask>
       <mask>navigation.yml</mask>
       <mask>config.js</mask>
       <mask>*config.js</mask>
+      <mask>*.yml</mask>
     </recentFileMasks>
   </component>
 </application>
