@@ -2,6 +2,7 @@
   <component name="FindSettings">
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="FILE_MASK" value="system_configuration.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -25,6 +26,7 @@
       <mask>config.js</mask>
       <mask>*config.js</mask>
       <mask>*.yml</mask>
+      <mask>system_configuration.yml</mask>
     </recentFileMasks>
   </component>
 </application>
