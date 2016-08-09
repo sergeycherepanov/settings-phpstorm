@@ -6,6 +6,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
+    <option name="FILE_MASK" value="datagrid.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,7 +18,6 @@
       <mask>routing.yml</mask>
       <mask>*.js</mask>
       <mask>*.twig</mask>
-      <mask>datagrid.yml</mask>
       <mask>validation.yml</mask>
       <mask>sustem.xml</mask>
       <mask>system.xml</mask>
@@ -30,6 +30,7 @@
       <mask>*config.js</mask>
       <mask>*.yml</mask>
       <mask>system_configuration.yml</mask>
+      <mask>datagrid.yml</mask>
     </recentFileMasks>
   </component>
 </application>
