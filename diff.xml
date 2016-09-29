@@ -28,7 +28,9 @@
         <PlaceSettings />
       </entry>
       <entry key="Merge">
-        <PlaceSettings />
+        <PlaceSettings>
+          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
+        </PlaceSettings>
       </entry>
     </option>
   </component>
