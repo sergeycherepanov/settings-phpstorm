@@ -1,6 +1,5 @@
 <application>
   <component name="FindSettings">
-    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
