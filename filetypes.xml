@@ -39,6 +39,7 @@
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
+      <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
