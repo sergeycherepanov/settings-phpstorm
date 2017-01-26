@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../package - [dev]'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -19,7 +20,6 @@
       <mask>validation.yml</mask>
       <mask>sustem.xml</mask>
       <mask>system.xml</mask>
-      <mask>*.php</mask>
       <mask>di.xml</mask>
       <mask>acl.yml</mask>
       <mask>navigation.yml</mask>
@@ -29,6 +29,7 @@
       <mask>system_configuration.yml</mask>
       <mask>*.xml</mask>
       <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
