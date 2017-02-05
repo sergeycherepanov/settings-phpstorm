@@ -13,6 +13,7 @@
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="modman" type="PLAIN_TEXT" />
+      <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
       <mapping pattern="install-application" type="PLAIN_TEXT" />
       <mapping pattern=".dokku/CHECKS" type="PLAIN_TEXT" />
