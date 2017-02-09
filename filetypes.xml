@@ -38,6 +38,7 @@
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
