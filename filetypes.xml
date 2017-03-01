@@ -38,14 +38,15 @@
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
+      <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
