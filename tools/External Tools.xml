@@ -7,7 +7,7 @@
     </exec>
     <filter>
       <option name="NAME" value="line" />
-      <option name="DESCRIPTION" value="" />
+      <option name="DESCRIPTION" />
       <option name="REGEXP" value="In\s+$FILE_PATH$\s+line\s+$LINE$:" />
     </filter>
   </tool>
