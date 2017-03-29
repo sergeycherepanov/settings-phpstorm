@@ -6,6 +6,10 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
+  </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
   </component>
