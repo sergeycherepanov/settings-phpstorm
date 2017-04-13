@@ -18,7 +18,6 @@
       <mask>sustem.xml</mask>
       <mask>di.xml</mask>
       <mask>acl.yml</mask>
-      <mask>navigation.yml</mask>
       <mask>config.js</mask>
       <mask>*config.js</mask>
       <mask>datagrid.yml</mask>
@@ -27,6 +26,8 @@
       <mask>system.xml</mask>
       <mask>*.xml</mask>
       <mask>*.yml</mask>
+      <mask>messages.en.yml</mask>
+      <mask>navigation.yml</mask>
     </recentFileMasks>
   </component>
 </application>
