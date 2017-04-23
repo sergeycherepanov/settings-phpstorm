@@ -168,12 +168,12 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="da4939" />
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="769aa5" />
+        <option name="FOREGROUND" value="a6e22e" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -217,19 +217,19 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="aa7760" />
         <option name="EFFECT_COLOR" value="8d8d8d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="aa84be" />
+        <option name="FOREGROUND" value="9876aa" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -252,6 +252,11 @@
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="DEFAULT_LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -385,6 +390,25 @@
       <value>
         <option name="EFFECT_COLOR" value="f49810" />
         <option name="ERROR_STRIPE_COLOR" value="f49810" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e2e2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_EXPORTED_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="EFFECT_COLOR" value="8d8d8d" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_STRUCT_EXPORTED_MEMBER">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="EFFECT_COLOR" value="8d8d8d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
