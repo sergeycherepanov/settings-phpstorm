@@ -57,6 +57,22 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.EXTERNAL_COMMAND">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="99f3ff" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BASH.FUNCTION_DEF_NAME">
+      <value>
+        <option name="FOREGROUND" value="c57633" />
+      </value>
+    </option>
     <option name="BASH.HERE_DOC">
       <value>
         <option name="BACKGROUND" value="292929" />
@@ -65,6 +81,24 @@
     <option name="BASH.INTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="99f3ff" />
+      </value>
+    </option>
+    <option name="BASH.REDIRECTION">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE">
+      <value>
+        <option name="FOREGROUND" value="9876aa" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="BASH.VAR_USE_BUILTIN">
+      <value>
+        <option name="FOREGROUND" value="9c9c00" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -217,7 +251,7 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="aa7760" />
+        <option name="FOREGROUND" value="9c9c00" />
         <option name="EFFECT_COLOR" value="8d8d8d" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
@@ -256,12 +290,12 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="bbb529" />
+        <option name="FOREGROUND" value="9c9c00" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="bbb529" />
+        <option name="FOREGROUND" value="9c9c00" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
