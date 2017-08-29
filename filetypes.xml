@@ -25,29 +25,30 @@
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="1399072350880" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="gotty" type="PLAIN_TEXT" />
       <mapping pattern="1013823909108" type="PLAIN_TEXT" />
       <mapping pattern="315263382665" type="PLAIN_TEXT" />
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="wget" type="PLAIN_TEXT" />
+      <mapping pattern="281847976270" type="PLAIN_TEXT" />
       <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
-      <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq" type="PLAIN_TEXT" />
-      <mapping pattern="281847976270" type="PLAIN_TEXT" />
+      <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
+      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
       <mapping pattern="getmembyte" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
@@ -55,8 +56,8 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="local" type="PLAIN_TEXT" />
       <mapping ext="deployment" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="groovy" type="PLAIN_TEXT" />
+      <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
@@ -64,7 +65,7 @@
       <mapping ext="scpt" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="dsl" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="dist" type="YAML" />
     </extensionMap>
