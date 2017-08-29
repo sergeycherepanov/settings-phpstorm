@@ -29,6 +29,7 @@
       <mapping pattern="1013823909108" type="PLAIN_TEXT" />
       <mapping pattern="315263382665" type="PLAIN_TEXT" />
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
+      <mapping pattern="sshd" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
       <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="wget" type="PLAIN_TEXT" />
