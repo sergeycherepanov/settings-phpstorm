@@ -2,8 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory '.../package - [dev]'" />
     <option name="defaultScopeName" value="Directory '.../package - [dev]'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../package - [dev]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
@@ -23,7 +23,6 @@
       <mask>config.js</mask>
       <mask>*config.js</mask>
       <mask>datagrid.yml</mask>
-      <mask>system_configuration.yml</mask>
       <mask>*.php</mask>
       <mask>system.xml</mask>
       <mask>*.xml</mask>
@@ -31,6 +30,7 @@
       <mask>navigation.yml</mask>
       <mask>*.yml</mask>
       <mask>*.json</mask>
+      <mask>system_configuration.yml</mask>
     </recentFileMasks>
   </component>
 </application>
