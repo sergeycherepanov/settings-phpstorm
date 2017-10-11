@@ -3,8 +3,11 @@
     <option name="customScope" value="Directory '.../package - [dev]'" />
     <option name="defaultScopeName" value="Directory '.../package - [dev]'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../package - [dev]'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -23,7 +26,6 @@
       <mask>config.js</mask>
       <mask>*config.js</mask>
       <mask>datagrid.yml</mask>
-      <mask>*.php</mask>
       <mask>system.xml</mask>
       <mask>*.xml</mask>
       <mask>messages.en.yml</mask>
@@ -31,6 +33,7 @@
       <mask>*.json</mask>
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
