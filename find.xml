@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory '.../package - [dev]'" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -32,8 +33,8 @@
       <mask>*.json</mask>
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
-      <mask>*.php</mask>
       <mask>datagrids.yml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
