@@ -3,6 +3,7 @@
     <option name="customScope" value="Directory '.../package - [dev]'" />
     <option name="defaultScopeName" value="Directory '.../package - [dev]'" />
     <option name="SEARCH_SCOPE" value="Directory '.../package - [dev]'" />
+    <option name="FILE_MASK" value="datagrids.yml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -29,6 +30,7 @@
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
       <mask>*.php</mask>
+      <mask>datagrids.yml</mask>
     </recentFileMasks>
   </component>
 </application>
