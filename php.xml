@@ -1,12 +1,12 @@
 <application>
   <component name="MessDetector">
     <phpmd_settings>
-      <MessDetectorConfiguration tool_path="$USER_HOME$/.composer/vendor/phpmd/phpmd/src/bin/phpmd" />
+      <MessDetectorConfiguration tool_path="/usr/local/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;ORO-PSR2;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="$USER_HOME$/.composer/vendor/squizlabs/php_codesniffer/scripts/phpcs" />
+      <PhpCSConfiguration standards="MySource;ORO-PSR2;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
