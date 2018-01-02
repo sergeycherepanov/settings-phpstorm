@@ -8,7 +8,6 @@
       <mapping pattern="modman" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="webmin" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="install-application" type="PLAIN_TEXT" />
       <mapping pattern=".dokku/CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="CHECKS" type="PLAIN_TEXT" />
@@ -35,19 +34,19 @@
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
-      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
+      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
+      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
       <mapping pattern="ssl" type="PLAIN_TEXT" />
       <mapping pattern="getmembyte" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="b2" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
