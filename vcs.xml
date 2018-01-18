@@ -6,6 +6,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="SergeyCherepanov" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.oro.cloud" />
+          <option name="userName" value="scherepanov" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
