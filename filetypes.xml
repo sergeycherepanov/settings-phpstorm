@@ -37,6 +37,7 @@
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
       <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
+      <mapping pattern="crtgen" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
       <mapping pattern="s3cfg" type="PLAIN_TEXT" />
