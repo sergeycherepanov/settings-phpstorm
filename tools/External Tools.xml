@@ -11,4 +11,11 @@
       <option name="REGEXP" value="In\s+$FILE_PATH$\s+line\s+$LINE$:" />
     </filter>
   </tool>
+  <tool name="rewriteurl" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/node" />
+      <option name="PARAMETERS" value="$USER_HOME$/dev/nodetools/console.js rewriteuri '$SelectedText$'" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
 </toolSet>

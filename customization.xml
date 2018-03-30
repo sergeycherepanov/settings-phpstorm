@@ -5,12 +5,18 @@
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Magicento2Action" is_action="true" action_type="1" position="16">
+    <group value="Tool_External Tools_rewriteurl" is_action="true" action_type="1" position="16">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="Tool_External Tools_shellcheck" />
+    <group value="Magicento2Action" is_action="true" action_type="1" position="17">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <action id="Tool_External Tools_shellcheck" icon="$USER_HOME$/www/dev/sandler/favicon.ico" />
+    <action id="Tool_External Tools_rewriteurl" />
     <action id="Magicento2Action" icon="$USER_HOME$/www/canon/store/media/favicon/default/Canon_Favicon_v2_1.png" />
   </component>
 </application>
