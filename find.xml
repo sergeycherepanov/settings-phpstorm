@@ -3,13 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>routing.yml</mask>
-      <mask>*.js</mask>
       <mask>*.twig</mask>
       <mask>validation.yml</mask>
       <mask>sustem.xml</mask>
@@ -25,16 +21,19 @@
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
       <mask>datagrids.yml</mask>
-      <mask>*.ph</mask>
       <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*.x,;</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
