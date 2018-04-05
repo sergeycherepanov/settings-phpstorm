@@ -4,11 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.mxml</mask>
-      <mask>routing.yml</mask>
-      <mask>*.twig</mask>
-      <mask>validation.yml</mask>
-      <mask>sustem.xml</mask>
       <mask>di.xml</mask>
       <mask>acl.yml</mask>
       <mask>config.js</mask>
@@ -26,14 +21,19 @@
       <mask>*.x,;</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
-      <mask>*.x</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.оы</mask>
-      <mask>*.о</mask>
+      <mask>*.zml</mask>
+      <mask>*.zm</mask>
+      <mask>*.z</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.x</mask>
+      <mask>*.xlm</mask>
     </recentFileMasks>
   </component>
 </application>
