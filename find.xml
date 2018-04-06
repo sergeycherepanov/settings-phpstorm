@@ -16,7 +16,6 @@
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
       <mask>datagrids.yml</mask>
-      <mask>*.pht</mask>
       <mask>*.phtml</mask>
       <mask>*.x,;</mask>
       <mask>*.xml</mask>
@@ -25,8 +24,6 @@
       <mask>*.о</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.zml</mask>
       <mask>*.zm</mask>
@@ -34,6 +31,9 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xlm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
