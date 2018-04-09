@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <recentFileMasks>
-      <mask>di.xml</mask>
-      <mask>acl.yml</mask>
-      <mask>config.js</mask>
       <mask>*config.js</mask>
       <mask>datagrid.yml</mask>
       <mask>system.xml</mask>
@@ -16,7 +14,6 @@
       <mask>system_configuration.yml</mask>
       <mask>*.yml</mask>
       <mask>datagrids.yml</mask>
-      <mask>*.phtml</mask>
       <mask>*.x,;</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
@@ -24,7 +21,6 @@
       <mask>*.о</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.p</mask>
       <mask>*.zml</mask>
       <mask>*.zm</mask>
       <mask>*.z</mask>
@@ -32,8 +28,13 @@
       <mask>*.x</mask>
       <mask>*.xlm</mask>
       <mask>*.pht</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.pреьд</mask>
+      <mask>*.pреь</mask>
+      <mask>*.pре</mask>
+      <mask>*.p</mask>
+      <mask>*.phtml</mask>
     </recentFileMasks>
   </component>
 </application>
