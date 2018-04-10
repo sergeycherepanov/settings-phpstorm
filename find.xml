@@ -1,14 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*config.js</mask>
       <mask>datagrid.yml</mask>
       <mask>system.xml</mask>
       <mask>messages.en.yml</mask>
@@ -18,7 +13,6 @@
       <mask>*.yml</mask>
       <mask>datagrids.yml</mask>
       <mask>*.x,;</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.оы</mask>
       <mask>*.о</mask>
@@ -27,17 +21,19 @@
       <mask>*.zml</mask>
       <mask>*.zm</mask>
       <mask>*.z</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
       <mask>*.xlm</mask>
-      <mask>*.pht</mask>
       <mask>*.php</mask>
-      <mask>*.ph</mask>
       <mask>*.pреьд</mask>
       <mask>*.pреь</mask>
       <mask>*.pре</mask>
-      <mask>*.p</mask>
       <mask>*.phtml</mask>
+      <mask>*.phtm</mask>
+      <mask>*.pht</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.x</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
