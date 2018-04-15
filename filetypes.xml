@@ -2,6 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="symfony-env" type="Bash" />
+      <mapping pattern="functions" type="Bash" />
+      <mapping pattern="pre-deploy" type="Bash" />
+      <mapping pattern="commands" type="Bash" />
+      <mapping pattern="pre-delete" type="Bash" />
+      <mapping pattern="config" type="Bash" />
+      <mapping pattern="post-build-dockerfile" type="Bash" />
+      <mapping ext="runit" type="Bash" />
+      <mapping ext="fact" type="Bash" />
       <mapping ext="mkd" type="Markdown" />
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
@@ -23,9 +32,9 @@
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="sshd" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="wget" type="PLAIN_TEXT" />
       <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
-      <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
@@ -37,16 +46,16 @@
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="crtgen" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="rand" type="PLAIN_TEXT" />
+      <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
+      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
       <mapping pattern="ssl" type="PLAIN_TEXT" />
       <mapping pattern="getmembyte" type="PLAIN_TEXT" />
@@ -66,16 +75,8 @@
       <mapping ext="deployment" type="PLAIN_TEXT" />
       <mapping ext="class" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="XML" />
       <mapping ext="dist" type="YAML" />
-      <mapping ext="fact" type="Bash" />
-      <mapping ext="runit" type="Bash" />
-      <mapping pattern="commands" type="Bash" />
-      <mapping pattern="config" type="Bash" />
-      <mapping pattern="functions" type="Bash" />
-      <mapping pattern="post-build-dockerfile" type="Bash" />
-      <mapping pattern="pre-delete" type="Bash" />
-      <mapping pattern="pre-deploy" type="Bash" />
-      <mapping pattern="symfony-env" type="Bash" />
     </extensionMap>
   </component>
 </application>
