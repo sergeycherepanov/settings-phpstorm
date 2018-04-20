@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>datagrid.yml</mask>
       <mask>system.xml</mask>
@@ -24,7 +23,6 @@
       <mask>*.zm</mask>
       <mask>*.z</mask>
       <mask>*.xlm</mask>
-      <mask>*.php</mask>
       <mask>*.pреьд</mask>
       <mask>*.pреь</mask>
       <mask>*.pре</mask>
@@ -36,6 +34,7 @@
       <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
