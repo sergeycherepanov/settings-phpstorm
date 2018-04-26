@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>datagrid.yml</mask>
       <mask>system.xml</mask>
@@ -32,9 +32,9 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.</mask>
+      <mask>*.php</mask>
       <mask>*.x</mask>
       <mask>*.xml</mask>
-      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
