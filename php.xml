@@ -9,6 +9,13 @@
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="/usr/local/bin/php56" id="a6fbfc4c-f604-4670-9ce1-2aed1ee3dbe1" name="PHP56" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/bin/php70" id="69f315e2-05c9-4e8c-b952-8ac5c37f2ec9" name="PHP70" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/Cellar/php71/7.1.13_24/bin/php" id="c62975a5-d270-46ce-a328-363de887450c" name="PHP71" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP56">
