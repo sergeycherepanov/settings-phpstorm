@@ -13,6 +13,7 @@
       <mapping ext="fact" type="Bash" />
       <removed_mapping ext="cfg" approved="true" type="Ini" />
       <mapping ext="mkd" type="Markdown" />
+      <mapping pattern="bin/console" type="PHP" />
       <mapping pattern=".dokku" type="PLAIN_TEXT" />
       <mapping pattern="dependencies" type="PLAIN_TEXT" />
       <mapping pattern="zzz" type="PLAIN_TEXT" />
@@ -33,30 +34,31 @@
       <mapping pattern=".s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="sshd" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
-      <mapping pattern="rand" type="PLAIN_TEXT" />
+      <mapping pattern="console" type="PLAIN_TEXT" />
       <mapping pattern="wget" type="PLAIN_TEXT" />
+      <mapping pattern="281847976270" type="PLAIN_TEXT" />
       <mapping pattern="Decokerfile" type="PLAIN_TEXT" />
-      <mapping pattern="minecraft" type="PLAIN_TEXT" />
+      <mapping pattern="s3cfg" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="1099789945610" type="PLAIN_TEXT" />
       <mapping pattern="rabbitmq" type="PLAIN_TEXT" />
-      <mapping pattern="281847976270" type="PLAIN_TEXT" />
+      <mapping pattern="minecraft" type="PLAIN_TEXT" />
       <mapping pattern="762746510477" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="elasticsearch" type="PLAIN_TEXT" />
       <mapping pattern="979222371726" type="PLAIN_TEXT" />
       <mapping pattern="docker-php-source" type="PLAIN_TEXT" />
-      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="crtgen" type="PLAIN_TEXT" />
       <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
+      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
       <mapping pattern="123" type="PLAIN_TEXT" />
-      <mapping pattern="s3cfg" type="PLAIN_TEXT" />
+      <mapping pattern="rand" type="PLAIN_TEXT" />
       <mapping pattern="Dcokerfile" type="PLAIN_TEXT" />
       <mapping pattern="new-year,phtml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
-      <mapping pattern="phpmyadmin" type="PLAIN_TEXT" />
+      <mapping pattern=".dokku\CHECKS" type="PLAIN_TEXT" />
       <mapping pattern="PoolController" type="PLAIN_TEXT" />
       <mapping pattern="ssl" type="PLAIN_TEXT" />
       <mapping pattern="getmembyte" type="PLAIN_TEXT" />
