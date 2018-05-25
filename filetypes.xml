@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="patt" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
