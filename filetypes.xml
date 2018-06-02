@@ -4,6 +4,7 @@
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
     </extensionMap>
