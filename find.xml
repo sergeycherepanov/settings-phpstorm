@@ -9,7 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="config.xml" />
+    <option name="FILE_MASK" value="di.xml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,5 +23,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>config.xml</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
