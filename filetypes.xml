@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="debug" type="PHP" />
+      <mapping pattern="magelogin" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
