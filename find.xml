@@ -19,6 +19,7 @@
     <mask>*.xml</mask>
     <mask>config.xml</mask>
     <mask>di.xml</mask>
+    <mask>*.yml</mask>
     <mask>*php</mask>
   </component>
 </application>
