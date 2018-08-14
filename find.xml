@@ -18,10 +18,10 @@
     <mask>*phtml</mask>
     <mask>*log</mask>
     <mask>*xml</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*php</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
