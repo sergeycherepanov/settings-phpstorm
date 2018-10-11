@@ -1,18 +1,18 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.3" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="27cb4e" />
     <option name="highlightColorEnabled" value="true" />
     <option name="highlightThickness" value="4" />
+    <option name="isContrastMode" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
-    <option name="accentColor" value="FF9800" />
-    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="ffd866" />
     <option name="compactSidebar" value="true" />
     <option name="customSidebarHeight" value="21" />
     <option name="fileIcons" value="false" />
     <option name="treeFontSize" value="13" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="userId" value="-394b39a6:166628de392:-8000" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
