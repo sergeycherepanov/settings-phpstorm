@@ -24,9 +24,9 @@
     <option name="FILESTATUS_addedOutside" value="629755" />
     <option name="FILESTATUS_changelistConflict" value="d5756c" />
     <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="313335" />
+    <option name="GUTTER_BACKGROUND" value="1d1d1d" />
     <option name="INDENT_GUIDE" value="373737" />
-    <option name="LINE_NUMBERS_COLOR" value="888888" />
+    <option name="LINE_NUMBERS_COLOR" value="787878" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="7180" />
     <option name="NOTIFICATION_BACKGROUND" value="5c5c42" />
@@ -531,7 +531,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="303030" />
+        <option name="BACKGROUND" value="292929" />
       </value>
     </option>
     <option name="INLINE_PARAMETER_HINT">

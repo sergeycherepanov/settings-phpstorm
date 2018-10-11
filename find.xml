@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/code/Amasty/ShopbyPage/Controller/Adminhtml/Page/Save.php [platypus]'" />
-    <option name="defaultScopeName" value="File '.../app/code/Amasty/ShopbyPage/Controller/Adminhtml/Page/Save.php [platypus]'" />
-    <option name="SEARCH_SCOPE" value="File '.../app/code/Amasty/ShopbyPage/Controller/Adminhtml/Page/Save.php [platypus]'" />
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
