@@ -9,10 +9,12 @@
     <option name="accentColor" value="FF9800" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
-    <option name="customSidebarHeight" value="20" />
+    <option name="customSidebarHeight" value="21" />
     <option name="fileIcons" value="false" />
-    <option name="settingsSelectedTab" value="2" />
+    <option name="treeFontSize" value="13" />
+    <option name="settingsSelectedTab" value="3" />
     <option name="userId" value="-394b39a6:166628de392:-8000" />
+    <option name="treeFontSizeEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="isWizardShown" value="true" />
