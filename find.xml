@@ -20,8 +20,8 @@
     <mask>*php</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
