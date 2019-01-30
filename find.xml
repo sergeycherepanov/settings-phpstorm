@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="di.xml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -12,7 +13,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>config.xml</mask>
-    <mask>di.xml</mask>
     <mask>*yml</mask>
     <mask>*phtml</mask>
     <mask>*log</mask>
@@ -23,5 +23,6 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>di.xml</mask>
   </component>
 </application>
