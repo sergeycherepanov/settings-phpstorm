@@ -19,8 +19,8 @@
     <mask>di.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
