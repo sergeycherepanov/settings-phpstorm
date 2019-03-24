@@ -24,12 +24,9 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
