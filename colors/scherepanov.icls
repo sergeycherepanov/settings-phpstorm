@@ -61,6 +61,11 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="BASH.BINARY_DATA">
+      <value>
+        <option name="BACKGROUND" value="1337" />
+      </value>
+    </option>
     <option name="BASH.EXTERNAL_COMMAND">
       <value>
         <option name="FOREGROUND" value="c57633" />
@@ -540,6 +545,12 @@
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="7a7a7a" />
+      </value>
+    </option>
+    <option name="INLINE_PARAMETER_HINT_CURRENT">
+      <value>
+        <option name="FOREGROUND" value="5b5b5b" />
+        <option name="BACKGROUND" value="8df4f3" />
       </value>
     </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
