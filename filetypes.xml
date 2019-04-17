@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="erply-push-order" type="Bash" />
       <mapping pattern="debug" type="PHP" />
       <mapping pattern="magelogin" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
