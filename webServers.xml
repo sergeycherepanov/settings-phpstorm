@@ -9,6 +9,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="17d2da5a-0e65-4dd1-9179-745e00c2dea1" name="scherepanov.dev" url="http://scherepanov.dev">
+        <fileTransfer host="scherepanov.dev" port="10222" privateKey="$USER_HOME$/.confsync/ssh/id_rsa" rootFolder="/home/scherepanov/www/dev" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="10222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

@@ -7,6 +7,7 @@
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="producer" type="PHP" />
       <mapping pattern="console" type="PHP" />
+      <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
@@ -15,9 +16,9 @@
       <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="Put biome config files here" type="PLAIN_TEXT" />
-      <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
