@@ -6,9 +6,11 @@
       <mapping pattern="magelogin" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="producer" type="PHP" />
+      <mapping pattern="fixoutlet" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
+      <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
