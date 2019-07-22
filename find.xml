@@ -22,5 +22,6 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
