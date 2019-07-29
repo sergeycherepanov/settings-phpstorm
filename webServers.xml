@@ -1,6 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="f019e841-57ce-4d41-bc10-bb97ef676cc9" name="devenv.work" url="http://devenv.work">
+        <fileTransfer host="devenv.work" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
       <webServer id="485d9d45-1ed3-4ed2-8fa2-c12b530d729e" name="dev" url="http://devenv.work">
         <fileTransfer host="devenv.work" port="22" rootFolder="/home/scherepanov/www/devenv" accessType="SFTP">
           <advancedOptions>
