@@ -9,6 +9,7 @@
       <mapping pattern="fixoutlet" type="PHP" />
       <mapping pattern="console" type="PHP" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
