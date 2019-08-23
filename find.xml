@@ -7,7 +7,7 @@
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -27,8 +27,8 @@
     <mask>*.ts</mask>
     <mask>requirejs.yml</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
