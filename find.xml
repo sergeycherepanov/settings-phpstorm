@@ -24,9 +24,9 @@
     <mask>*.ts</mask>
     <mask>requirejs.yml</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.yml</mask>
   </component>
 </application>
