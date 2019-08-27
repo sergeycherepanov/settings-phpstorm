@@ -24,7 +24,7 @@
     <mask>*.less</mask>
     <mask>*.js</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>requirejs.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
