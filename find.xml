@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -28,7 +28,7 @@
     <mask>requirejs.yml</mask>
     <mask>*.php</mask>
     <mask>filters.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
