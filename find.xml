@@ -23,12 +23,12 @@
     <mask>*.csv</mask>
     <mask>*.ts</mask>
     <mask>*.less</mask>
-    <mask>*.php</mask>
     <mask>filters.yml</mask>
     <mask>requirejs.yml</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.json</mask>
+    <mask>*.php</mask>
     <mask>*.yml</mask>
   </component>
 </application>
