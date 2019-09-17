@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -32,7 +32,7 @@
     <mask>*.json</mask>
     <mask>*.php</mask>
     <mask>jobs.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
