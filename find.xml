@@ -31,8 +31,8 @@
     <mask>*.js</mask>
     <mask>*.json</mask>
     <mask>*.php</mask>
-    <mask>jobs.yml</mask>
     <mask>*.xml</mask>
+    <mask>jobs.yml</mask>
     <mask>*.yml</mask>
   </component>
 </application>
