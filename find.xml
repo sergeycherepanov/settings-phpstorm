@@ -2,8 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -23,12 +25,12 @@
     <mask>*.ts</mask>
     <mask>*.less</mask>
     <mask>filters.yml</mask>
-    <mask>requirejs.yml</mask>
-    <mask>*.js</mask>
     <mask>jobs.yml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
-    <mask>*.yml</mask>
     <mask>*.json</mask>
+    <mask>*.yml</mask>
+    <mask>requirejs.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
