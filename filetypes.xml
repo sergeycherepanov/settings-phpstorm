@@ -3,38 +3,38 @@
     <extensionMap>
       <mapping pattern="erply-push-order" type="Bash" />
       <mapping pattern="debug" type="PHP" />
-      <mapping pattern="magelogin" type="PHP" />
+      <mapping pattern="console" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="producer" type="PHP" />
       <mapping pattern="fixoutlet" type="PHP" />
-      <mapping pattern="console" type="PHP" />
+      <mapping pattern="magelogin" type="PHP" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
+      <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
       <mapping pattern=".php72" type="PLAIN_TEXT" />
-      <mapping pattern=".php71" type="PLAIN_TEXT" />
-      <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="moment-php-format" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="Put biome config files here" type="PLAIN_TEXT" />
-      <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
       <mapping pattern="_log" type="PLAIN_TEXT" />
+      <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
+      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
       <removed_mapping ext="cgi" type="PLAIN_TEXT" />
       <removed_mapping ext="rb" type="PLAIN_TEXT" />

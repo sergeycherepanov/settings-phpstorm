@@ -1,0 +1,19 @@
+<filetype binary="false" description="Requirejs.yml" name="Requirejs.yml">
+  <highlighting>
+    <options>
+      <option name="LINE_COMMENT" value="" />
+      <option name="COMMENT_START" value="" />
+      <option name="COMMENT_END" value="" />
+      <option name="HEX_PREFIX" value="" />
+      <option name="NUM_POSTFIXES" value="" />
+    </options>
+    <keywords ignore_case="false" />
+    <keywords2 />
+    <keywords3 />
+    <keywords4 />
+  </highlighting>
+  <extensionMap>
+    <mapping pattern="requirejs.yml" />
+    <mapping pattern="requirejs.yaml" />
+  </extensionMap>
+</filetype>
