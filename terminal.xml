@@ -1,0 +1,7 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <envs>
+      <env key="PJD" value="$PROJECT_DIR$" />
+    </envs>
+  </component>
+</application>
