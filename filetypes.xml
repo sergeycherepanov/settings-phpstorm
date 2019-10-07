@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="erply-push-order" type="Bash" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="debug" type="PHP" />
       <mapping pattern="magelogin" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
@@ -29,15 +31,14 @@
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
       <mapping pattern="_log" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
-      <removed_mapping ext="cgi" type="PLAIN_TEXT" />
-      <removed_mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
   </component>
