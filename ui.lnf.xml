@@ -1,0 +1,8 @@
+<application>
+  <component name="UISettings">
+    <option name="CLOSE_NON_MODIFIED_FILES_FIRST" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="25" />
+    <option name="SHOW_INPLACE_COMMENTS" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="true" />
+  </component>
+</application>
