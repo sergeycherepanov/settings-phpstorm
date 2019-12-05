@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -28,8 +31,8 @@
     <mask>*.js</mask>
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
-    <mask>*.php</mask>
     <mask>*.md</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
