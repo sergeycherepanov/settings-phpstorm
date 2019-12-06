@@ -31,7 +31,7 @@
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
     <mask>*.md</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
