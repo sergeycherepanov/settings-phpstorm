@@ -18,6 +18,7 @@
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_conditioned_replication_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
+      <mapping pattern="testtest" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
       <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
