@@ -1136,5 +1136,10 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="YAML_ANCHOR">
+      <value>
+        <option name="FOREGROUND" value="64c3ff" />
+      </value>
+    </option>
   </attributes>
 </scheme>
