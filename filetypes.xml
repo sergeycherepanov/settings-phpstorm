@@ -44,6 +44,7 @@
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
+      <mapping ext="dev_redis" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
