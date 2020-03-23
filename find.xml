@@ -26,12 +26,12 @@
     <mask>*.yml</mask>
     <mask>*php</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>*.less</mask>
     <mask>Monolog</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
