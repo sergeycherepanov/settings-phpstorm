@@ -32,8 +32,8 @@
     <mask>Monolog</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*html</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
