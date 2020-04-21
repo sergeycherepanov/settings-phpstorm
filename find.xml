@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -30,10 +31,10 @@
     <mask>*phtml</mask>
     <mask>*.less</mask>
     <mask>Monolog</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*html</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
