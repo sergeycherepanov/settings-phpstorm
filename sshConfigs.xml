@@ -1,0 +1,8 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="devenv.work" id="3d0ab212-2532-4ca9-860c-b321eed2ebab" port="22" customName="dev" nameFormat="CUSTOM" />
+      <sshConfig host="scherepanov.dev" id="107c059d-6037-4f88-a6f3-d769b04cd7b0" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
+    </configs>
+  </component>
+</application>
