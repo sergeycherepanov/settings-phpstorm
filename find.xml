@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*html" />
     <mask>*.java</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -29,10 +29,10 @@
     <mask>*phtml</mask>
     <mask>*.less</mask>
     <mask>Monolog</mask>
-    <mask>*html</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*html</mask>
   </component>
 </application>
