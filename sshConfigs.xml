@@ -13,6 +13,8 @@
       <sshConfig host="scherepanov.dev" id="59e4f480-44ed-458e-9917-07fe21d220eb" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="devenv.work" id="1b9d33f9-c6ff-400b-8b5f-ed4935bb6055" port="22" customName="dev" nameFormat="CUSTOM" />
       <sshConfig host="scherepanov.dev" id="2f9cc4b8-6a5f-49af-9343-30dff216ca7b" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="devenv.work" id="6e384767-ffd3-499b-9ca7-d7187c4fdb22" port="22" customName="dev" nameFormat="CUSTOM" />
+      <sshConfig host="scherepanov.dev" id="fa36dac6-edcd-4cdc-a263-dcbaaa52b562" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
