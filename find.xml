@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.java</mask>
     <mask>*.as</mask>
@@ -30,10 +28,10 @@
     <mask>*phtml</mask>
     <mask>*.less</mask>
     <mask>Monolog</mask>
-    <mask>*.yml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*html</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
