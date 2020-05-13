@@ -37,6 +37,10 @@
       <sshConfig host="scherepanov.dev" id="0e03f386-b8a9-47bd-8a43-a0e18b88aba4" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="devenv.work" id="97c4e3ae-c5ca-4224-9146-21889c3387cc" port="22" customName="dev" nameFormat="CUSTOM" />
       <sshConfig host="scherepanov.dev" id="1974ee55-7a32-4755-b718-ed79b76a4e46" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="devenv.work" id="7da848b5-3ff9-47c4-8f40-efc487d1fcb2" port="22" customName="dev" nameFormat="CUSTOM" />
+      <sshConfig host="scherepanov.dev" id="b1e9af2a-a92c-4316-a805-5c644dfd99bd" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="devenv.work" id="f7d42bc7-bb1e-409b-add0-f1ec2c87b29b" port="22" customName="dev" nameFormat="CUSTOM" />
+      <sshConfig host="scherepanov.dev" id="a1758a12-ddcc-49dc-bb1b-cc6f68df5c30" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
