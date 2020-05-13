@@ -2,19 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="485d9d45-1ed3-4ed2-8fa2-c12b530d729e" name="dev" url="http://devenv.work">
-        <fileTransfer host="devenv.work" port="22" rootFolder="/home/scherepanov/www/devenv" accessType="SFTP">
+        <fileTransfer rootFolder="/home/scherepanov/www/devenv" accessType="SFTP" sshConfigId="c59d3382-8b5c-4d62-a8d1-6fa66acccaeb" sshConfig="dev">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="17d2da5a-0e65-4dd1-9179-745e00c2dea1" name="scherepanov.dev" url="http://scherepanov.dev">
-        <fileTransfer host="scherepanov.dev" port="10222" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/scherepanov/www/dev" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/home/scherepanov/www/dev" accessType="SFTP" sshConfigId="e59825e2-d958-4028-be77-a6abbf277071" sshConfig="scherepanov.dev">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="10222" />
         </fileTransfer>
       </webServer>
     </option>
