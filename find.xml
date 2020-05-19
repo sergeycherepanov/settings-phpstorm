@@ -28,10 +28,10 @@
     <mask>*.less</mask>
     <mask>Monolog</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*html</mask>
     <mask>*.yml</mask>
     <mask>*.j2</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
