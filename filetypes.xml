@@ -36,11 +36,11 @@
       <mapping pattern="_log" type="PLAIN_TEXT" />
       <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
