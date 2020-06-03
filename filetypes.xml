@@ -11,6 +11,7 @@
       <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
+      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
@@ -35,6 +36,7 @@
       <mapping pattern="_log" type="PLAIN_TEXT" />
       <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
+      <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
