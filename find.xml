@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>*.mxml</mask>
     <mask>config.xml</mask>
     <mask>*yml</mask>
@@ -10,7 +11,6 @@
     <mask>*xml</mask>
     <mask>*.html</mask>
     <mask>di.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.ts</mask>
     <mask>filters.yml</mask>
     <mask>jobs.yml</mask>
@@ -33,5 +33,6 @@
     <mask>widget.xml</mask>
     <mask>*.xml</mask>
     <mask>*.htm</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
