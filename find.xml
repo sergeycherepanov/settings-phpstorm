@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>config.xml</mask>
     <mask>*yml</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>widget.xml</mask>
     <mask>*.xml</mask>
+    <mask>*.htm</mask>
   </component>
 </application>
