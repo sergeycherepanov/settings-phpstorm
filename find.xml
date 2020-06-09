@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.mxml</mask>
     <mask>*yml</mask>
     <mask>*log</mask>
@@ -23,7 +24,6 @@
     <mask>*phtml</mask>
     <mask>*.less</mask>
     <mask>Monolog</mask>
-    <mask>*.js</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
     <mask>*.yml</mask>
@@ -33,5 +33,6 @@
     <mask>config.xml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
