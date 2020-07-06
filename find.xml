@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="widget.xml" />
     <mask>*xml</mask>
     <mask>*.html</mask>
     <mask>di.xml</mask>
@@ -23,7 +24,6 @@
     <mask>*html</mask>
     <mask>*.j2</mask>
     <mask>*.yml</mask>
-    <mask>widget.xml</mask>
     <mask>*.htm</mask>
     <mask>*.csv</mask>
     <mask>config.xml</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>widget.xml</mask>
   </component>
 </application>
