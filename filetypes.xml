@@ -21,6 +21,7 @@
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="testtest" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
+      <mapping pattern=".php73" type="PLAIN_TEXT" />
       <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
