@@ -38,16 +38,17 @@
       <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
-      <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="patt" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
-      <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
-      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="dsl" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="ewave_dist" type="PLAIN_TEXT" />
+      <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
     </extensionMap>
