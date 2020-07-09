@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*xml</mask>
     <mask>*.html</mask>
     <mask>di.xml</mask>
@@ -32,7 +32,7 @@
     <mask>system.xml</mask>
     <mask>*.js</mask>
     <mask>widget.xml</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
