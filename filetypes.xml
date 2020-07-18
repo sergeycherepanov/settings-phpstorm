@@ -21,6 +21,7 @@
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="testtest" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
+      <mapping pattern=".php73" type="PLAIN_TEXT" />
       <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
@@ -39,6 +40,7 @@
       <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />

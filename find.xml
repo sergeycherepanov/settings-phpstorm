@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*xml</mask>
     <mask>*.html</mask>
@@ -29,9 +31,9 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>system.xml</mask>
-    <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>widget.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
