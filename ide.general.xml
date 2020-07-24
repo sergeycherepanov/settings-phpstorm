@@ -9,4 +9,11 @@
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="git" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
