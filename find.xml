@@ -1,15 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <mask>*xml</mask>
-    <mask>*.html</mask>
     <mask>di.xml</mask>
     <mask>*.ts</mask>
     <mask>filters.yml</mask>
@@ -38,5 +33,7 @@
     <mask>*.php</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>section.xml</mask>
+    <mask>sections.xml</mask>
   </component>
 </application>
