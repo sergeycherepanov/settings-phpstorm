@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>di.xml</mask>
     <mask>*.ts</mask>
     <mask>filters.yml</mask>
@@ -31,11 +32,11 @@
     <mask>*.css</mask>
     <mask>system.xml</mask>
     <mask>widget.xml</mask>
-    <mask>*.php</mask>
     <mask>section.xml</mask>
     <mask>sections.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
