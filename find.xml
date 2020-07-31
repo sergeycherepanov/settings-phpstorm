@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>di.xml</mask>
     <mask>*.ts</mask>
     <mask>filters.yml</mask>
@@ -15,7 +16,6 @@
     <mask>*php</mask>
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
-    <mask>*.less</mask>
     <mask>Monolog</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
@@ -33,5 +33,6 @@
     <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
