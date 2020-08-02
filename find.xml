@@ -2,11 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*xml</mask>
-    <mask>*.html</mask>
+    <option name="FILE_MASK" value="*.less" />
     <mask>di.xml</mask>
     <mask>*.ts</mask>
     <mask>filters.yml</mask>
@@ -17,10 +14,8 @@
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
-    <mask>*.phtml</mask>
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
-    <mask>*.less</mask>
     <mask>Monolog</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
@@ -31,9 +26,13 @@
     <mask>*.scss</mask>
     <mask>*.css</mask>
     <mask>system.xml</mask>
-    <mask>*.js</mask>
     <mask>widget.xml</mask>
+    <mask>section.xml</mask>
+    <mask>sections.xml</mask>
+    <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
