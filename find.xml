@@ -17,7 +17,6 @@
     <mask>Monolog</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
-    <mask>*.yml</mask>
     <mask>*.htm</mask>
     <mask>*.csv</mask>
     <mask>config.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
