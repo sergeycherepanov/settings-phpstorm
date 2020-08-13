@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="system.xml" />
     <mask>filters.yml</mask>
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
@@ -21,7 +24,6 @@
     <mask>config.xml</mask>
     <mask>*.scss</mask>
     <mask>*.css</mask>
-    <mask>system.xml</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
     <mask>sections.xml</mask>
@@ -33,5 +35,6 @@
     <mask>*.html</mask>
     <mask>*.js</mask>
     <mask>php8*.rb</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
