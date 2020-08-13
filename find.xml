@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ts</mask>
+    <option name="FILE_MASK" value="php8*.rb" />
     <mask>filters.yml</mask>
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
@@ -33,5 +35,6 @@
     <mask>*.phtml</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>php8*.rb</mask>
   </component>
 </application>
