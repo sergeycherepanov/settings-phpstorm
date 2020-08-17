@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.less" />
     <mask>filters.yml</mask>
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
@@ -25,7 +26,6 @@
     <mask>section.xml</mask>
     <mask>sections.xml</mask>
     <mask>*.php</mask>
-    <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.phtml</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>php8*.rb</mask>
     <mask>system.xml</mask>
+    <mask>*.less</mask>
   </component>
 </application>
