@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
     <mask>requirejs.yml</mask>
@@ -28,10 +29,10 @@
     <mask>php8*.rb</mask>
     <mask>system.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.xml</mask>
     <mask>*.less</mask>
     <mask>.*php</mask>
-    <mask>*.phtml</mask>
     <mask>*.js</mask>
+    <mask>*.phtml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
