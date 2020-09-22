@@ -27,11 +27,11 @@
     <mask>php8*.rb</mask>
     <mask>system.xml</mask>
     <mask>*.scss</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.less</mask>
     <mask>.*php</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
