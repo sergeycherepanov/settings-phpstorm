@@ -5,6 +5,7 @@
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
     <mask>requirejs.yml</mask>
@@ -32,8 +33,8 @@
     <mask>*.less</mask>
     <mask>.*php</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.xml</mask>
     <mask>*.phtml</mask>
   </component>
 </application>
