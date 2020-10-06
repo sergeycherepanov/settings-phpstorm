@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>jobs.yml</mask>
     <mask>*.json</mask>
     <mask>requirejs.yml</mask>
@@ -30,10 +31,10 @@
     <mask>*.scss</mask>
     <mask>*.less</mask>
     <mask>.*php</mask>
-    <mask>*.js</mask>
     <mask>system.xml</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
