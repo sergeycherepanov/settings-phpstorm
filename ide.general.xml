@@ -1,4 +1,7 @@
 <application>
+  <component name="GeneralSettings">
+    <option name="showTipsOnStartup" value="false" />
+  </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
