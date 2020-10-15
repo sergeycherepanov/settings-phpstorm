@@ -18,7 +18,6 @@
     <mask>*.htm</mask>
     <mask>*.csv</mask>
     <mask>config.xml</mask>
-    <mask>*.css</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
     <mask>sections.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.css</mask>
   </component>
 </application>
