@@ -30,9 +30,9 @@
     <mask>*.phtml</mask>
     <mask>system.xml</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
     <mask>*.php</mask>
   </component>
 </application>
