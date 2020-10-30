@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>jobs.yml</mask>
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
@@ -35,7 +36,7 @@
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.phtml</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
