@@ -7,7 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>jobs.yml</mask>
+    <option name="FILE_MASK" value="webapi.xml" />
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
     <mask>*.md</mask>
@@ -37,5 +37,6 @@
     <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>webapi.xml</mask>
   </component>
 </application>
