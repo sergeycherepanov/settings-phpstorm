@@ -34,8 +34,8 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.yml</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
