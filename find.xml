@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
     <mask>*.md</mask>
@@ -14,7 +15,6 @@
     <mask>*html</mask>
     <mask>*.j2</mask>
     <mask>*.htm</mask>
-    <mask>*.csv</mask>
     <mask>config.xml</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
@@ -30,8 +30,9 @@
     <mask>*.json</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*.phtml</mask>
     <mask>*.xml</mask>
     <mask>webapi.xml</mask>
+    <mask>*.csv</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
