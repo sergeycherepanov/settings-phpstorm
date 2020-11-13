@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
@@ -27,11 +29,11 @@
     <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.json</mask>
-    <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>webapi.xml</mask>
     <mask>*.csv</mask>
     <mask>*.phtml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
