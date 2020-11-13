@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
     <mask>*.md</mask>
@@ -30,8 +33,8 @@
     <mask>webapi.xml</mask>
     <mask>*.csv</mask>
     <mask>*.phtml</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
