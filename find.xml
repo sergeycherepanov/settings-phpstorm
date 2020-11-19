@@ -26,14 +26,14 @@
     <mask>*.less</mask>
     <mask>.*php</mask>
     <mask>system.xml</mask>
-    <mask>*.js</mask>
-    <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>webapi.xml</mask>
     <mask>*.csv</mask>
-    <mask>*.phtml</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
+    <mask>*.phtml</mask>
+    <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
