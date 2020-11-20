@@ -30,8 +30,8 @@
     <mask>*.phtml</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
-    <mask>*.less</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
   </component>
 </application>
