@@ -3,8 +3,11 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>requirejs.yml</mask>
     <mask>*.yml,*.json,*.php</mask>
     <mask>*.md</mask>
@@ -27,7 +30,6 @@
     <mask>system.xml</mask>
     <mask>*.json</mask>
     <mask>webapi.xml</mask>
-    <mask>*.csv</mask>
     <mask>*.yml</mask>
     <mask>*.phtml</mask>
     <mask>*.js</mask>
@@ -35,5 +37,6 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.less</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
