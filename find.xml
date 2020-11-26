@@ -24,7 +24,6 @@
     <mask>php8*.rb</mask>
     <mask>*.scss</mask>
     <mask>.*php</mask>
-    <mask>system.xml</mask>
     <mask>*.json</mask>
     <mask>webapi.xml</mask>
     <mask>*.yml</mask>
@@ -35,5 +34,6 @@
     <mask>*.csv</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>system.xml</mask>
   </component>
 </application>
