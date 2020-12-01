@@ -45,9 +45,9 @@
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
