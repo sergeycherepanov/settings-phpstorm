@@ -12,6 +12,7 @@
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
+      <mapping pattern="Amazon_Payment" type="PLAIN_TEXT" />
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
