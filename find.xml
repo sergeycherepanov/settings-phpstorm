@@ -31,7 +31,7 @@
     <mask>*.js</mask>
     <mask>system.xml</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.csv</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
