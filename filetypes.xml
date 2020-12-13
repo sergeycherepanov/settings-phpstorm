@@ -16,6 +16,7 @@
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
+      <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_conditioned_replication_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
