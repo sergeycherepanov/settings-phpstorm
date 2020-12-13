@@ -27,6 +27,7 @@
       <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="moment-php-format" type="PLAIN_TEXT" />
