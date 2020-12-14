@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="17d2da5a-0e65-4dd1-9179-745e00c2dea1" name="scherepanov.dev" url="http://scherepanov.dev">
-        <fileTransfer rootFolder="/home/scherepanov/ansible" accessType="SFTP" host="dev.srv.today" port="22" sshConfigId="0860190e-c01b-4977-b5c5-2bb64d602241" sshConfig="scherepanov@dev.srv.today:22 key" keyPair="true">
+        <fileTransfer rootFolder="/home/scherepanov/ansible-hm2" accessType="SFTP" host="dev.srv.today" port="22" sshConfigId="0860190e-c01b-4977-b5c5-2bb64d602241" sshConfig="scherepanov@dev.srv.today:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
           </advancedOptions>
