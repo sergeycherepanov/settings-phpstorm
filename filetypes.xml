@@ -27,7 +27,6 @@
       <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
-      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="moment-php-format" type="PLAIN_TEXT" />
@@ -37,22 +36,23 @@
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="2323" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="_log" type="PLAIN_TEXT" />
       <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
-      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="slice" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
-      <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
