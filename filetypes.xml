@@ -19,6 +19,7 @@
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
@@ -51,6 +52,7 @@
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="slice" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="dsl" type="PLAIN_TEXT" />
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
