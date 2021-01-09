@@ -1,0 +1,21 @@
+<toolSet name="External Tools">
+  <tool name="shellcheck" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/shellcheck" />
+      <option name="PARAMETERS" value="--shell=bash $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+    <filter>
+      <option name="NAME" value="line" />
+      <option name="DESCRIPTION" />
+      <option name="REGEXP" value="In\s+$FILE_PATH$\s+line\s+$LINE$:" />
+    </filter>
+  </tool>
+  <tool name="rewriteurl" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/node" />
+      <option name="PARAMETERS" value="$USER_HOME$/dev/nodetools/console.js rewriteuri '$SelectedText$'" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

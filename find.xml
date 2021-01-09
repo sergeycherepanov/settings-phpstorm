@@ -1,0 +1,37 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.yml,*.json,*.php</mask>
+    <mask>*.md</mask>
+    <mask>php56*</mask>
+    <mask>*php</mask>
+    <mask>*.ph*</mask>
+    <mask>*phtml</mask>
+    <mask>Monolog</mask>
+    <mask>*html</mask>
+    <mask>*.j2</mask>
+    <mask>*.htm</mask>
+    <mask>config.xml</mask>
+    <mask>widget.xml</mask>
+    <mask>section.xml</mask>
+    <mask>sections.xml</mask>
+    <mask>*.html</mask>
+    <mask>php8*.rb</mask>
+    <mask>*.scss</mask>
+    <mask>.*php</mask>
+    <mask>*.json</mask>
+    <mask>webapi.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.less</mask>
+    <mask>*.phtml</mask>
+    <mask>*.yml</mask>
+    <mask>*.js</mask>
+    <mask>system.xml</mask>
+    <mask>api2.xml</mask>
+    <mask>*.xml</mask>
+    <mask>*.php</mask>
+    <mask>*.csv</mask>
+  </component>
+</application>
