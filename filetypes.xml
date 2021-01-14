@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
-      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="fixoutlet" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="producer" type="PHP" />
@@ -13,12 +12,12 @@
       <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern="Amazon_Payment" type="PLAIN_TEXT" />
-      <mapping pattern=".php71" type="PLAIN_TEXT" />
+      <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
-      <mapping pattern="akeneo_conditioned_replication_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
-      <mapping pattern=".php70" type="PLAIN_TEXT" />
+      <mapping pattern="akeneo_conditioned_replication_buffer_22204" type="PLAIN_TEXT" />
+      <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="1212" type="PLAIN_TEXT" />
@@ -27,8 +26,8 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="2323" type="PLAIN_TEXT" />
       <mapping pattern="266490885057" type="PLAIN_TEXT" />
-      <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="_log" type="PLAIN_TEXT" />
+      <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
@@ -48,8 +47,8 @@
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
