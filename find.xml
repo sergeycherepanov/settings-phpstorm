@@ -1,15 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.yml,*.json,*.php</mask>
+    <option name="FILE_MASK" value="api.yml" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -39,5 +35,6 @@
     <mask>*.csv</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>api.yml</mask>
   </component>
 </application>
