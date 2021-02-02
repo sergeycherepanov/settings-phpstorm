@@ -25,7 +25,6 @@
     <mask>*.css</mask>
     <mask>*.less</mask>
     <mask>*.phtml</mask>
-    <mask>*.js</mask>
     <mask>system.xml</mask>
     <mask>api2.xml</mask>
     <mask>*.csv</mask>
@@ -33,5 +32,6 @@
     <mask>api.yml</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
