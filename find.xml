@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -30,8 +31,8 @@
     <mask>api.yml</mask>
     <mask>*.yml</mask>
     <mask>*.scss</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
