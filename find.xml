@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -23,7 +24,6 @@
     <mask>webapi.xml</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
-    <mask>*.phtml</mask>
     <mask>system.xml</mask>
     <mask>api2.xml</mask>
     <mask>*.csv</mask>
@@ -33,5 +33,6 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
