@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -32,8 +33,8 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.php</mask>
     <mask>*.phtml</mask>
     <mask>*.csv</mask>
+    <mask>*.php</mask>
   </component>
 </application>
