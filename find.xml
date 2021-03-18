@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -31,7 +34,7 @@
     <mask>*.xml</mask>
     <mask>*.csv</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
