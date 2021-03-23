@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.phtml" />
     <mask>*.md</mask>
     <mask>php56*</mask>
     <mask>*php</mask>
@@ -32,8 +33,8 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>*.csv</mask>
+    <mask>*.phtml</mask>
   </component>
 </application>
