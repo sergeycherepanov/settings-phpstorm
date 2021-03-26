@@ -46,6 +46,7 @@
       <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
