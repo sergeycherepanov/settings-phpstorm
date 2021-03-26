@@ -58,6 +58,7 @@
       <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
+      <mapping ext="10" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="slice" type="PLAIN_TEXT" />
       <mapping ext="sample" type="PLAIN_TEXT" />
