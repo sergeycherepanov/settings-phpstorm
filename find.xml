@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.md</mask>
+    <option name="FILE_MASK" value="composer.json" />
     <mask>php56*</mask>
     <mask>*php</mask>
     <mask>*.ph*</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.csv</mask>
     <mask>*.phtml</mask>
+    <mask>composer.json</mask>
   </component>
 </application>
