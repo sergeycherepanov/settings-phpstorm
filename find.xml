@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.csv" />
     <mask>php56*</mask>
     <mask>*php</mask>
     <mask>*.ph*</mask>
@@ -30,8 +31,8 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
-    <mask>*.csv</mask>
-    <mask>*.phtml</mask>
     <mask>composer.json</mask>
+    <mask>*.phtml</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
