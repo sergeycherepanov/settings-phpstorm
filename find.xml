@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>php56*</mask>
     <mask>*php</mask>
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
@@ -28,10 +27,11 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.yml</mask>
     <mask>composer.json</mask>
     <mask>*.phtml</mask>
     <mask>*.csv</mask>
+    <mask>*.yaml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
