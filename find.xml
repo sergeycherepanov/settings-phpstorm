@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*php</mask>
+    <option name="FILE_MASK" value="validation.yml" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -33,5 +33,6 @@
     <mask>*.yaml</mask>
     <mask>*.php</mask>
     <mask>*.yml</mask>
+    <mask>validation.yml</mask>
   </component>
 </application>
