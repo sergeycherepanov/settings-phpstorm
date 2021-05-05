@@ -72,6 +72,7 @@
       <mapping ext="ewave_dist" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
       <mapping ext="j2" type="PLAIN_TEXT" />
+      <mapping ext="gomplate" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
       <mapping pattern="erply-push-order" type="Bash" />
