@@ -11,6 +11,7 @@
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="customSidebarHeight" value="21" />
     <option name="treeFontSize" value="14" />
