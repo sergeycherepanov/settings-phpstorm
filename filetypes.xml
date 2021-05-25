@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="static/fonts" type="AUTO_DETECTED" />
+      <mapping pattern="nginx-xhgui,conf" type="AUTO_DETECTED" />
       <mapping pattern="traefik" type="AUTO_DETECTED" />
       <mapping pattern="cloud-init" type="AUTO_DETECTED" />
       <mapping pattern="pve-dnsmasq-update" type="AUTO_DETECTED" />
