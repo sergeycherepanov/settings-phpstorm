@@ -20,11 +20,11 @@
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern="Amazon_Payment" type="PLAIN_TEXT" />
-      <mapping pattern=".php71" type="PLAIN_TEXT" />
+      <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_conditioned_replication_buffer_22204" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
-      <mapping pattern=".datignore" type="PLAIN_TEXT" />
+      <mapping pattern=".php71" type="PLAIN_TEXT" />
       <mapping pattern=".php70" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
       <mapping pattern=".env.local.gomplate" type="PLAIN_TEXT" />
@@ -63,8 +63,8 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
-      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
+      <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
@@ -78,10 +78,8 @@
       <mapping ext="gomplate" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
-      <mapping ext="yaml" type="YAML" />
-      <mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="yaml" type="YAML_EX" />
+      <removed_mapping ext="yml" type="YAML_EX" />
       <mapping pattern="erply-push-order" type="Bash" />
     </extensionMap>
   </component>
