@@ -27,11 +27,11 @@
     <mask>*.js</mask>
     <mask>composer.json</mask>
     <mask>*.phtml</mask>
-    <mask>*.csv</mask>
     <mask>*.yaml</mask>
     <mask>validation.yml</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.csv</mask>
   </component>
 </application>
