@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="nginx-8181" type="AUTO_DETECTED" />
       <mapping pattern="static/fonts" type="AUTO_DETECTED" />
       <mapping pattern="nginx-xhgui,conf" type="AUTO_DETECTED" />
       <mapping pattern="traefik" type="AUTO_DETECTED" />
