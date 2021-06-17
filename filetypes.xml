@@ -65,8 +65,8 @@
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="toml" type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
-      <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
+      <mapping ext="zs" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="service" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
@@ -80,8 +80,6 @@
       <mapping ext="gomplate" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="plist" type="XML" />
-      <removed_mapping ext="yml" type="YAML" />
-      <removed_mapping ext="yaml" type="YAML" />
       <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="yml" type="YAML_EX" />
       <mapping pattern="erply-push-order" type="Bash" />
