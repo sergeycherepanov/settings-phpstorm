@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -30,10 +31,10 @@
     <mask>composer.json</mask>
     <mask>*.yaml</mask>
     <mask>validation.yml</mask>
-    <mask>*.yml</mask>
     <mask>*.csv</mask>
     <mask>*.xml</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
