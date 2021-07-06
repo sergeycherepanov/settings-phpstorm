@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="sections.xml" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -12,7 +13,6 @@
     <mask>config.xml</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
-    <mask>sections.xml</mask>
     <mask>php8*.rb</mask>
     <mask>.*php</mask>
     <mask>*.json</mask>
@@ -33,5 +33,6 @@
     <mask>*.php</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>sections.xml</mask>
   </component>
 </application>
