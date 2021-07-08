@@ -52,6 +52,7 @@
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern="init-script" type="PLAIN_TEXT" />
+      <mapping pattern=".dbdiff" type="PLAIN_TEXT" />
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
