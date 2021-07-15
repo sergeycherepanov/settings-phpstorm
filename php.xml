@@ -1,29 +1,106 @@
 <application>
   <component name="MessDetector">
-    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="/usr/local/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
-    <phpcs_settings_migrated />
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="8d5572dc-4661-475d-8fde-cd861c844a1a" name="PHP 7.2" home="/usr/local/Cellar/php72/7.2.23_1/bin/php" debugger_id="php.debugger.XDebug" />
+      <interpreter id="8d5572dc-4661-475d-8fde-cd861c844a1a" name="PHP 7.2" home="/usr/local/bin/php72" debugger_id="php.debugger.XDebug" />
+      <interpreter id="d133836f-c79f-4de3-bd60-3a64133462c6" name="PHP 7.3" home="/usr/local/bin/php73" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
+      <interpreter name="PHP 7.3">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php73/7.3.29_1/bin/php-cgi" php_cli="/usr/local/Cellar/php73/7.3.29_1/bin/php" path_separator=":" version="7.3.29">
+          <additional_php_ini>/usr/local/etc/php/7.3/conf.d/ext-apcu.ini, /usr/local/etc/php/7.3/conf.d/ext-gmp.ini, /usr/local/etc/php/7.3/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.3/conf.d/ext-imagick.ini, /usr/local/etc/php/7.3/conf.d/ext-intl.ini, /usr/local/etc/php/7.3/conf.d/ext-ioncubeloader.ini, /usr/local/etc/php/7.3/conf.d/ext-ldap.ini, /usr/local/etc/php/7.3/conf.d/ext-mcrypt.ini, /usr/local/etc/php/7.3/conf.d/ext-mongodb.ini, /usr/local/etc/php/7.3/conf.d/ext-opcache.ini, /usr/local/etc/php/7.3/conf.d/ext-pdo_pgsql.ini, /usr/local/etc/php/7.3/conf.d/ext-redis.ini, /usr/local/etc/php/7.3/conf.d/ext-sodium.ini, /usr/local/etc/php/7.3/conf.d/ext-tidy.ini, /usr/local/etc/php/7.3/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.3/conf.d/ext-xhprof.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.3/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php73/7.3.29_1/lib/php" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="apcu" />
+            <extension name="bcmath" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="igbinary" />
+            <extension name="imagick" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mcrypt" />
+            <extension name="mongodb" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="posix" />
+            <extension name="readline" />
+            <extension name="redis" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tideways_xhprof" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 7.2">
-        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php72/7.2.23_1/bin/php-cgi" php_cli="/usr/local/Cellar/php72/7.2.23_1/bin/php" path_separator=":" version="7.2.23">
-          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-apcu.ini, /usr/local/etc/php/7.2/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.2/conf.d/ext-imagick.ini, /usr/local/etc/php/7.2/conf.d/ext-intl.ini, /usr/local/etc/php/7.2/conf.d/ext-mcrypt.ini, /usr/local/etc/php/7.2/conf.d/ext-memprof.ini, /usr/local/etc/php/7.2/conf.d/ext-mongodb.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-pdo_pgsql.ini, /usr/local/etc/php/7.2/conf.d/ext-redis.ini, /usr/local/etc/php/7.2/conf.d/ext-tidy.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.2/conf.d/ext-xhprof.ini</additional_php_ini>
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php72/7.2.34_2/bin/php-cgi" php_cli="/usr/local/Cellar/php72/7.2.34_2/bin/php" path_separator=":" version="7.2.34">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-apcu.ini, /usr/local/etc/php/7.2/conf.d/ext-gmp.ini, /usr/local/etc/php/7.2/conf.d/ext-igbinary.ini, /usr/local/etc/php/7.2/conf.d/ext-imagick.ini, /usr/local/etc/php/7.2/conf.d/ext-intl.ini, /usr/local/etc/php/7.2/conf.d/ext-ioncubeloader.ini, /usr/local/etc/php/7.2/conf.d/ext-ldap.ini, /usr/local/etc/php/7.2/conf.d/ext-mcrypt.ini, /usr/local/etc/php/7.2/conf.d/ext-mongodb.ini, /usr/local/etc/php/7.2/conf.d/ext-opcache.ini, /usr/local/etc/php/7.2/conf.d/ext-pdo_pgsql.ini, /usr/local/etc/php/7.2/conf.d/ext-redis.ini, /usr/local/etc/php/7.2/conf.d/ext-sodium.ini, /usr/local/etc/php/7.2/conf.d/ext-tidy.ini, /usr/local/etc/php/7.2/conf.d/ext-xdebug.ini, /usr/local/etc/php/7.2/conf.d/ext-xhprof.ini</additional_php_ini>
           <configuration_file>/usr/local/etc/php/7.2/php-cli.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".:/usr/local/Cellar/php72/7.2.23_1/lib/php" />
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php72/7.2.34_2/lib/php" />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.6.0">
@@ -52,16 +129,17 @@
             <extension name="ftp" />
             <extension name="gd" />
             <extension name="gettext" />
+            <extension name="gmp" />
             <extension name="hash" />
             <extension name="iconv" />
             <extension name="igbinary" />
             <extension name="imagick" />
             <extension name="intl" />
             <extension name="json" />
+            <extension name="ldap" />
             <extension name="libxml" />
             <extension name="mbstring" />
             <extension name="mcrypt" />
-            <extension name="memprof" />
             <extension name="mongodb" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
