@@ -7,6 +7,7 @@
       <mapping pattern="traefik" type="AUTO_DETECTED" />
       <mapping pattern="cloud-init" type="AUTO_DETECTED" />
       <mapping pattern="pve-dnsmasq-update" type="AUTO_DETECTED" />
+      <mapping pattern="msmtprc" type="AUTO_DETECTED" />
       <mapping pattern="ProductDoesNotAvilable" type="AUTO_DETECTED" />
       <mapping pattern="01_nodoc" type="AUTO_DETECTED" />
       <mapping pattern="redeploy" type="AUTO_DETECTED" />
