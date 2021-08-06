@@ -16,7 +16,6 @@
       <mapping pattern="NothingItemProcessor" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
-      <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
@@ -35,16 +34,17 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="moment-php-format" type="PLAIN_TEXT" />
       <mapping pattern=".dbdiff" type="PLAIN_TEXT" />
+      <mapping pattern=".env.gomplate" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern="Put biome config files here" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="2323" type="PLAIN_TEXT" />
       <mapping pattern="838354074366" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="_log" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
-      <mapping pattern=".env.gomplate" type="PLAIN_TEXT" />
+      <mapping pattern="FakeSMC" type="PLAIN_TEXT" />
       <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
