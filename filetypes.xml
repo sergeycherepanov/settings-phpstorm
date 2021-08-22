@@ -24,6 +24,7 @@
       <mapping pattern="moment-php-format" type="PLAIN_TEXT" />
       <mapping pattern=".deployignore" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
+      <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
       <mapping pattern="Amazon_Payment" type="PLAIN_TEXT" />
       <mapping pattern=".datignore" type="PLAIN_TEXT" />
