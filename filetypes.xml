@@ -14,6 +14,7 @@
       <mapping pattern="redeploy" type="AUTO_DETECTED" />
       <mapping pattern="octobercms" type="AUTO_DETECTED" />
       <mapping pattern="fixoutlet" type="PHP" />
+      <mapping pattern="bin/console" type="PHP" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="producer" type="PHP" />
       <mapping pattern="console" type="PHP" />
