@@ -29,11 +29,11 @@
     <mask>validation.yml</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.html</mask>
     <mask>sections.xml</mask>
-    <mask>*.php</mask>
     <mask>*.csv</mask>
     <mask>*.js</mask>
+    <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
