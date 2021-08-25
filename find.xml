@@ -7,6 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -32,10 +33,10 @@
     <mask>*.html</mask>
     <mask>sections.xml</mask>
     <mask>*.csv</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
     <mask>api.yml</mask>
     <mask>*.yml</mask>
+    <mask>*.js</mask>
   </component>
 </application>
