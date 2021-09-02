@@ -1,10 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -32,8 +37,8 @@
     <mask>*.phtml</mask>
     <mask>api.yml</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
