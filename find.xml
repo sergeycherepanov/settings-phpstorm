@@ -31,7 +31,7 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
