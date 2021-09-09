@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.ph*</mask>
@@ -24,18 +22,18 @@
     <mask>*.less</mask>
     <mask>system.xml</mask>
     <mask>api2.xml</mask>
-    <mask>api.yml</mask>
     <mask>*.scss</mask>
     <mask>composer.json</mask>
     <mask>*.yaml</mask>
     <mask>validation.yml</mask>
-    <mask>*.csv</mask>
-    <mask>*.yml</mask>
-    <mask>*.xml</mask>
-    <mask>*.phtml</mask>
     <mask>*.html</mask>
-    <mask>*.js</mask>
     <mask>sections.xml</mask>
+    <mask>*.csv</mask>
+    <mask>*.phtml</mask>
+    <mask>api.yml</mask>
+    <mask>*.js</mask>
+    <mask>*.xml</mask>
+    <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>
 </application>
