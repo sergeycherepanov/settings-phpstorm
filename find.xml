@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -33,7 +34,7 @@
     <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.php</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
