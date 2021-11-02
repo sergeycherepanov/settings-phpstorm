@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="php74" type="AUTO_DETECTED" />
       <mapping pattern="octobercms" type="AUTO_DETECTED" />
       <mapping pattern="redeploy" type="AUTO_DETECTED" />
       <mapping pattern="pve-dnsmasq-update" type="AUTO_DETECTED" />
