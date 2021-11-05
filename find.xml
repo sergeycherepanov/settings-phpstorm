@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.ph*</mask>
     <mask>*phtml</mask>
     <mask>Monolog</mask>
     <mask>*html</mask>
@@ -33,5 +32,6 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.php</mask>
+    <mask>*.sass</mask>
   </component>
 </application>
