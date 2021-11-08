@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*phtml</mask>
     <mask>Monolog</mask>
     <mask>*html</mask>
@@ -32,8 +31,8 @@
     <mask>*.js</mask>
     <mask>*.phtml</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
