@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*phtml</mask>
     <mask>Monolog</mask>
@@ -31,9 +33,9 @@
     <mask>api.yml</mask>
     <mask>*.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>*.sass</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
