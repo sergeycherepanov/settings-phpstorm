@@ -62,6 +62,7 @@
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="Put biome config files here" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
