@@ -49,7 +49,6 @@
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
-      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="testtest" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
