@@ -72,6 +72,7 @@
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="ini " type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
