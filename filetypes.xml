@@ -40,8 +40,8 @@
       <mapping pattern=".php73" type="PLAIN_TEXT" />
       <mapping pattern=".php74" type="PLAIN_TEXT" />
       <mapping pattern=".php71" type="PLAIN_TEXT" />
-      <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern="525237021317" type="PLAIN_TEXT" />
+      <mapping pattern=".php72" type="PLAIN_TEXT" />
       <mapping pattern="Amazon_Payment" type="PLAIN_TEXT" />
       <mapping pattern="Quoter" type="PLAIN_TEXT" />
       <mapping pattern="609611914000" type="PLAIN_TEXT" />
