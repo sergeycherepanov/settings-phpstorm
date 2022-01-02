@@ -91,6 +91,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="gomplate" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="mutagen" type="Shell Script" />
       <mapping ext="plist" type="XML" />
       <mapping pattern="erply-push-order" type="Bash" />
     </extensionMap>
