@@ -1,11 +1,15 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*phtml</mask>
+    <option name="FILE_MASK" value="php81-*" />
     <mask>Monolog</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
@@ -35,5 +39,6 @@
     <mask>*.sass</mask>
     <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>php81-*</mask>
   </component>
 </application>
