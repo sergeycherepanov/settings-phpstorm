@@ -5,7 +5,6 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>Monolog</mask>
     <mask>*html</mask>
     <mask>*.j2</mask>
     <mask>*.htm</mask>
@@ -35,5 +34,6 @@
     <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>php81-*</mask>
+    <mask>*brew*</mask>
   </component>
 </application>
