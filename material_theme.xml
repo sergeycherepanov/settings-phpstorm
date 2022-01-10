@@ -2,6 +2,9 @@
   <component name="MaterialThemeConfig">
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
+    <option name="highContrast" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="premium" value="true" />
     <option name="compactSidebar" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
@@ -18,6 +21,6 @@
     <option name="highlightColor" value="27cb4e" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-394b39a6:166628de392:-8000" />
-    <option name="version" value="6.12.2" />
+    <option name="version" value="6.8.2" />
   </component>
 </application>
