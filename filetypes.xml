@@ -9,6 +9,7 @@
       <mapping pattern="nginx-xhgui,conf" type="AUTO_DETECTED" />
       <mapping pattern="static/fonts" type="AUTO_DETECTED" />
       <mapping pattern="localhost" type="AUTO_DETECTED" />
+      <mapping pattern="sess_8e3fc3b201c0f12d4fb8f3875fb656a3" type="AUTO_DETECTED" />
       <mapping pattern="01_nodoc" type="AUTO_DETECTED" />
       <mapping pattern="nginx-8181" type="AUTO_DETECTED" />
       <mapping pattern="traefik" type="AUTO_DETECTED" />
@@ -16,6 +17,7 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="extra" type="AUTO_DETECTED" />
       <mapping pattern="cloud-init" type="AUTO_DETECTED" />
+      <mapping pattern="tidy-html5" type="AUTO_DETECTED" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="bin/console" type="PHP" />
       <mapping pattern="magelogin" type="PHP" />
@@ -49,7 +51,6 @@
       <mapping pattern="composer" type="PLAIN_TEXT" />
       <mapping pattern=".php56" type="PLAIN_TEXT" />
       <mapping pattern="233041366636" type="PLAIN_TEXT" />
-      <mapping pattern="docker-compose" type="PLAIN_TEXT" />
       <mapping pattern="testtest" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
@@ -62,6 +63,7 @@
       <mapping pattern="377732431910" type="PLAIN_TEXT" />
       <mapping pattern="Put biome config files here" type="PLAIN_TEXT" />
       <mapping pattern=".geetkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="init-script" type="PLAIN_TEXT" />
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
@@ -72,6 +74,7 @@
       <mapping ext="api" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping ext="ini " type="PLAIN_TEXT" />
       <mapping ext="lang" type="PLAIN_TEXT" />
       <mapping ext="vcl" type="PLAIN_TEXT" />
       <mapping ext="zs" type="PLAIN_TEXT" />
@@ -89,6 +92,7 @@
       <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="gomplate" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping pattern="mutagen" type="Shell Script" />
       <mapping ext="plist" type="XML" />
       <mapping pattern="erply-push-order" type="Bash" />
     </extensionMap>
