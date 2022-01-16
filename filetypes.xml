@@ -72,6 +72,7 @@
       <mapping ext="toml " type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="ini " type="PLAIN_TEXT" />
