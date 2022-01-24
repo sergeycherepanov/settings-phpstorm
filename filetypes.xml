@@ -17,6 +17,7 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="extra" type="AUTO_DETECTED" />
       <mapping pattern="cloud-init" type="AUTO_DETECTED" />
+      <mapping pattern="brew-list-build-only-deps" type="AUTO_DETECTED" />
       <mapping pattern="tidy-html5" type="AUTO_DETECTED" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="bin/console" type="PHP" />
