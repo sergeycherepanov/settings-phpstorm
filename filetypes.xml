@@ -69,6 +69,7 @@
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="toml " type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
