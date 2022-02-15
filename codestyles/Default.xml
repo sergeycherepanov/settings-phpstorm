@@ -3,9 +3,4 @@
   <XML>
     <option name="XML_TEXT_WRAP" value="0" />
   </XML>
-  <codeStyleSettings language="yaml">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-    </indentOptions>
-  </codeStyleSettings>
 </code_scheme>

@@ -1,41 +1,37 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>jobs.yml</mask>
-    <mask>*.json</mask>
-    <mask>requirejs.yml</mask>
-    <mask>*.yml,*.json,*.php</mask>
-    <mask>*.md</mask>
-    <mask>php56*</mask>
-    <mask>*php</mask>
-    <mask>*.ph*</mask>
-    <mask>*phtml</mask>
-    <mask>Monolog</mask>
-    <mask>*html</mask>
     <mask>*.j2</mask>
     <mask>*.htm</mask>
-    <mask>*.csv</mask>
     <mask>config.xml</mask>
-    <mask>*.css</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
-    <mask>sections.xml</mask>
-    <mask>*.yml</mask>
-    <mask>*.html</mask>
     <mask>php8*.rb</mask>
-    <mask>*.scss</mask>
-    <mask>*.less</mask>
     <mask>.*php</mask>
-    <mask>*.phtml</mask>
+    <mask>*.json</mask>
+    <mask>webapi.xml</mask>
+    <mask>*.css</mask>
+    <mask>*.less</mask>
     <mask>system.xml</mask>
+    <mask>api2.xml</mask>
+    <mask>*.scss</mask>
+    <mask>composer.json</mask>
+    <mask>*.yaml</mask>
+    <mask>validation.yml</mask>
+    <mask>*.html</mask>
+    <mask>sections.xml</mask>
+    <mask>*.csv</mask>
+    <mask>api.yml</mask>
     <mask>*.js</mask>
-    <mask>*.xml</mask>
+    <mask>*.phtml</mask>
     <mask>*.php</mask>
+    <mask>*.sass</mask>
+    <mask>*.yml</mask>
+    <mask>*.xml</mask>
+    <mask>php81-*</mask>
+    <mask>*brew*</mask>
+    <mask>*schema.xml</mask>
   </component>
 </application>

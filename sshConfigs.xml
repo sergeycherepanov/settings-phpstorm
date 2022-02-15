@@ -1,8 +1,13 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="devenv.work" id="3a5a32ce-176d-48f7-8f12-a59c4a8fee94" port="22" customName="dev" nameFormat="CUSTOM" />
-      <sshConfig host="scherepanov.dev" id="9e0daef4-5b9b-4a54-9490-831b53de0fee" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM" />
+      <sshConfig host="10.6.0.184" id="3a5a32ce-176d-48f7-8f12-a59c4a8fee94" keyPath="$USER_HOME$/.ssh/absoluteweb" port="22" customName="ford.protect.m2.development" nameFormat="CUSTOM" username="scherepanov">
+        <option name="customName" value="ford.protect.m2.development" />
+      </sshConfig>
+      <sshConfig host="scherepanov.dev" id="9e0daef4-5b9b-4a54-9490-831b53de0fee" keyPath="$USER_HOME$/.ssh/id_rsa" port="10222" customName="scherepanov.dev" nameFormat="CUSTOM">
+        <option name="customName" value="scherepanov.dev" />
+      </sshConfig>
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="dev.srv.today" id="0860190e-c01b-4977-b5c5-2bb64d602241" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="scherepanov" />
     </configs>
   </component>
 </application>
