@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.j2</mask>
     <mask>*.htm</mask>
     <mask>config.xml</mask>
@@ -12,7 +13,6 @@
     <mask>section.xml</mask>
     <mask>php8*.rb</mask>
     <mask>.*php</mask>
-    <mask>*.json</mask>
     <mask>webapi.xml</mask>
     <mask>*.css</mask>
     <mask>*.less</mask>
@@ -35,5 +35,6 @@
     <mask>php81-*</mask>
     <mask>*brew*</mask>
     <mask>*schema.xml</mask>
+    <mask>*.json</mask>
   </component>
 </application>
