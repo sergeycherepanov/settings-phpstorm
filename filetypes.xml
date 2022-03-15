@@ -17,6 +17,7 @@
       <mapping pattern="docker" type="AUTO_DETECTED" />
       <mapping pattern="extra" type="AUTO_DETECTED" />
       <mapping pattern="cloud-init" type="AUTO_DETECTED" />
+      <mapping pattern="brew-list-build-only-deps" type="AUTO_DETECTED" />
       <mapping pattern="tidy-html5" type="AUTO_DETECTED" />
       <mapping pattern="beholder" type="PHP" />
       <mapping pattern="bin/console" type="PHP" />
@@ -69,10 +70,12 @@
       <mapping pattern="akeneo_hydration_buffer_22204" type="PLAIN_TEXT" />
       <mapping ext="patt" type="PLAIN_TEXT" />
       <mapping ext="docker" type="PLAIN_TEXT" />
+      <mapping ext="old" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="toml " type="PLAIN_TEXT" />
       <mapping ext="dev_redis" type="PLAIN_TEXT" />
       <mapping ext="api" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="ini " type="PLAIN_TEXT" />
