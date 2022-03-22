@@ -30,10 +30,10 @@
     <mask>*.php</mask>
     <mask>*.sass</mask>
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>php81-*</mask>
     <mask>*brew*</mask>
     <mask>*schema.xml</mask>
     <mask>*.json</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
