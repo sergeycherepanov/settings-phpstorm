@@ -5,8 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.j2</mask>
-    <mask>*.htm</mask>
+    <option name="FILE_MASK" value="*.tsx" />
     <mask>config.xml</mask>
     <mask>widget.xml</mask>
     <mask>section.xml</mask>
@@ -35,5 +34,7 @@
     <mask>*schema.xml</mask>
     <mask>*.json</mask>
     <mask>*.xml</mask>
+    <mask>*.ts</mask>
+    <mask>*.tsx</mask>
   </component>
 </application>
