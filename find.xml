@@ -27,7 +27,6 @@
     <mask>api.yml</mask>
     <mask>*.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.php</mask>
     <mask>*.sass</mask>
     <mask>*.yml</mask>
     <mask>php81-*</mask>
@@ -37,5 +36,6 @@
     <mask>*.xml</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*.php</mask>
   </component>
 </application>
