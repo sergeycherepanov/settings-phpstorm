@@ -14,11 +14,12 @@
     <option name="customSidebarHeight" value="21" />
     <option name="treeFontSize" value="14" />
     <option name="highlightThickness" value="4" />
-    <option name="settingsSelectedTab" value="3" />
+    <option name="settingsSelectedTab" value="2" />
     <option name="accentColor" value="ffd866" />
     <option name="highlightColor" value="27cb4e" />
     <option name="selectedTheme" value="MONOKAI" />
     <option name="userId" value="-394b39a6:166628de392:-8000" />
     <option name="version" value="7.3.2" />
+    <option name="treeFont" value=".AppleSystemUIFont" />
   </component>
 </application>
