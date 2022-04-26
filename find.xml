@@ -11,10 +11,8 @@
     <mask>.*php</mask>
     <mask>webapi.xml</mask>
     <mask>*.css</mask>
-    <mask>*.less</mask>
     <mask>system.xml</mask>
     <mask>api2.xml</mask>
-    <mask>*.scss</mask>
     <mask>composer.json</mask>
     <mask>*.yaml</mask>
     <mask>validation.yml</mask>
@@ -22,9 +20,7 @@
     <mask>sections.xml</mask>
     <mask>*.csv</mask>
     <mask>api.yml</mask>
-    <mask>*.js</mask>
     <mask>*.phtml</mask>
-    <mask>*.sass</mask>
     <mask>*.yml</mask>
     <mask>php81-*</mask>
     <mask>*brew*</mask>
@@ -35,5 +31,9 @@
     <mask>*.tsx</mask>
     <mask>*sqs*.php</mask>
     <mask>*.php</mask>
+    <mask>*.less</mask>
+    <mask>*.scss</mask>
+    <mask>*.sass</mask>
+    <mask>*.js</mask>
   </component>
 </application>
