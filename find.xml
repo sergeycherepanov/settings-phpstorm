@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*mig*.php" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>php8*.rb</mask>
     <mask>.*php</mask>
     <mask>webapi.xml</mask>
@@ -32,7 +32,7 @@
     <mask>*.sass</mask>
     <mask>*.js</mask>
     <mask>*command.php</mask>
-    <mask>*.php</mask>
     <mask>*mig*.php</mask>
+    <mask>*.php</mask>
   </component>
 </application>
