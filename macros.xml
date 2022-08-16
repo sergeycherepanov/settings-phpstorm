@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="navback">
+      <action id="Back" />
+      <action id="EditorSelectSingleLineAtCaret" />
+    </macro>
+    <macro name="navforward">
+      <action id="Forward" />
+      <action id="EditorSelectSingleLineAtCaret" />
+    </macro>
+    <macro name="prevchanged">
+      <action id="JumpToLastChange" />
+      <action id="EditorSelectSingleLineAtCaret" />
+    </macro>
+  </component>
+</application>
